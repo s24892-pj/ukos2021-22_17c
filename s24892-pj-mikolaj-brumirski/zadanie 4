@@ -1,0 +1,32 @@
+
+zad1. 
+Ścieżka względna: cd /../../../kot/ma/ale
+Ścieżka bezwzględna: cd tmp/ukos/kot/ma/ale
+
+zad2.
+mkdir -p /tmp/ukos/kot/ma/ale/jan/kowalski
+
+zad3.
+mv /tmp/ukos/kot/ma/ale /tmp/ukos/ala/i/
+
+zad4.
+Poleceniem ps aux sprawdzam PID programu a następnie poleceniem kill -9 PID zamykam program
+
+zad5.
+ls -p | grep -v / | grep -e^al
+
+zad6.
+chmod o=x,g=rx,u=rwx /tmp/ukos/ala
+chmod o-rw,g-w,u+wx,o+x,g+rx
+chmod 751 gdzie 7-owner, 5-groups, 3-other users
+
+zad7.
+ls -p > plik.txt
+
+zad8.
+Zostały mi odebrane permisje lub brakuje miejsca na dysku
+
+zad9.
+TAB
+
+zad10. Można uruchomić program i po tym nacisnąć kombinacje klawiszy CTRL + Z lub dodać do polecenia otwierającego aplikacje &
