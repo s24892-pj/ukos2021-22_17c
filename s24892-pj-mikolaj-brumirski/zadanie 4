@@ -1,7 +1,7 @@
 
 zad1. 
-Ścieżka względna: cd /../../../kot/ma/ale
-Ścieżka bezwzględna: cd tmp/ukos/kot/ma/ale
+Ścieżka względna: cd ../../../kot/ma/ale
+Ścieżka bezwzględna: cd /tmp/ukos/kot/ma/ale
 
 zad2.
 mkdir -p /tmp/ukos/kot/ma/ale/jan/kowalski
