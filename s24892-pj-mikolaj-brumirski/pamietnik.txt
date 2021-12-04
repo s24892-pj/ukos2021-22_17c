@@ -1,0 +1,5 @@
+Na dzisiejszych zajęciach nauczyłem się: 
+- używać gita
+- ustawiać VM 
+- podstaw VIMa 
+- ścieżek 
